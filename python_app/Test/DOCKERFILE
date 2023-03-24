@@ -8,4 +8,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
-CMD ["python", "-m", "unittest", "test.py"]
+CMD ["python", "-m", "unittest", "test_order_data_analysis.py"]
