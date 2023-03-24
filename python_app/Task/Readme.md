@@ -1,3 +1,5 @@
+# Desrciption about the Python_App and how to dockerize it.
+
 This Python program uses the pandas library to analyze a dataset of orders. Here's a breakdown of what the program does:
 
 1.It imports the pandas library and loads a CSV file called "orders.csv" into a pandas dataframe using the read_csv() function.
@@ -29,5 +31,3 @@ To Dockerize the Python code, we can follow the below steps:
 3.	Build the Docker image using the Dockerfile.
 4.	Run the Docker container based on the image you just built.
 
-
-![DockerStep]{Dockerstep.jpg}
