@@ -34,5 +34,6 @@ To Dockerize the Python code, we can follow the below steps:
 Steps:
 
 
-![Dockerstep](https://user-images.githubusercontent.com/100275029/227478340-20af4312-e6ce-409b-ba39-ac3f48a45f27.jpg)
+![Dockerfile_task](https://user-images.githubusercontent.com/100275029/227486262-d57e1913-377d-40b6-b942-8a7ce3f3ce0b.jpg)
+
 
