@@ -31,3 +31,6 @@ To Dockerize the Python code, we can follow the below steps:
 3.	Build the Docker image using the Dockerfile.
 4.	Run the Docker container based on the image you just built.
 
+Steps:
+![Dockerstep](https://user-images.githubusercontent.com/100275029/227478340-20af4312-e6ce-409b-ba39-ac3f48a45f27.jpg)
+
