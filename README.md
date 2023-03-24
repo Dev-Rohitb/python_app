@@ -11,16 +11,17 @@ if you want to Dockerize the application, you need to have Docker installed on y
 1.	Navigate to the python_app/task folder in the terminal/command prompt.
 2.	Inside this folder, you will find another folder named task. This folder contains the Python script that performs the task. To run the script, enter the following command:
 bashCopy code
-python python analysis.py 
+python python_app.py 
 
 This will execute the Python script and output the result of the task.
 
 
-#Testing the Application
+# Testing the Application
 1.	Navigate to the python_app/test folder in the terminal/command prompt.
 2.	Inside this folder, you will find another folder named tests. This folder contains the Python script that performs the tests. To run the tests, enter the following command:
 bashCopy code
 python -m unittest test_order_data_analysis.py 
+
 This will execute the test script and output the results of the tests.
 
 
