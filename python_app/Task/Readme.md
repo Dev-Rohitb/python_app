@@ -23,6 +23,14 @@ This Python program uses the pandas library to analyze a dataset of orders. Here
 10. Finally, the program prints the top 10 customers.
 
 
+# To run this Python script, follow the steps below:
+1.	Save the script in a file with a .py extension, for example python_app.py (in our case).
+2.	Save the orders.csv file in the same directory as the script.
+3.	Open a terminal or command prompt in the directory where the script and CSV file are located.
+4.	Run the script by typing python python_app.py and press Enter.
+
+
+
 # Dockerize the Pythong_App
 
 To Dockerize the Python code, we can follow the below steps:
