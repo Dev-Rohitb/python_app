@@ -20,4 +20,14 @@ This Python program uses the pandas library to analyze a dataset of orders. Here
 
 10.Finally, the program prints the top 10 customers.
 
-In summary, this program is an example of how to use pandas to analyze a dataset and generate useful insights.
+
+#Dockerrizing the Pythong App
+
+To Dockerize the Python code, we can follow the below steps:
+1.	Create a Dockerfile - this is a text file that contains instructions for building a Docker image.
+2.	In the Dockerfile, specify the base image you want to use, copy the Python script and dependencies into the image, and define the commands to be executed when the image is run.
+3.	Build the Docker image using the Dockerfile.
+4.	Run the Docker container based on the image you just built.
+
+
+![DockerStep]{Dockerstep.jpg}
