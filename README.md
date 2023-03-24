@@ -34,9 +34,13 @@ This will execute the test script and output the results of the tests.
 2.	Create a Docker image by running the following command:
 
 bashCopy code
+
 docker build -t python_app . 
 
+
 This will create a Docker image with the tag python_app based on the Dockerfile in the python_app folder.
+
+
 3.	Run the Docker container by executing the following command:
 bashCopy code
 docker run python_app 
