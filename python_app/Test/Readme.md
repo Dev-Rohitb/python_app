@@ -16,6 +16,29 @@ This Python program is using the unittest framework to test data analysis functi
 
 7.To run the tests, we can simply run the Python file containing the tests, which will execute the unittest.main() function and run all the tests. If any test fails, the framework will print an error message indicating which test failed and why.
 
+
+
+# To Run The Test, follow the steps below:
+1.	Save the script in a file with a .py extension, for example, test_order_data_analysis.py.
+2.	Make sure that the orders.csv file is located in the same directory as the script.
+3.	Open a terminal or command prompt and navigate to the directory where the script is located.
+4.	Run the script by typing the following command:
+
+Copy code:
+python test_order_data_analysis.py 
+
+5.	The script will execute all the tests defined in the TestOrderDataAnalysis class and print the test results to the console.
+6.	If all the tests pass, you will see a message indicating that all the tests have passed. If any test fails, the framework will print an error message indicating which test failed and why.
+
+Note: Make sure that you have installed the required Python packages, such as pandas and unittest, before running the script. You can install these packages using pip, which is the package installer for Python.
+
+
+
+
+
+
+
+
 # Docker Steps: 
 
 To Dockerize this Python code, we will need to create a Docker image that contains all the necessary dependencies and the code itself. Here are the steps to Dockerize this code:
